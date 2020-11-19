@@ -6,4 +6,4 @@ Sinta-se livre para compartilhar o material, quaisquer comentários ou dúvidas 
 
 O Curso apresentará conceitos de NumPy, Matplotlib e Keras. Alguns dos resultados são :
 
-![exercicio](exercicio.jpg?raw=true "Title")
+![exercicio](exercicio.jpg)
