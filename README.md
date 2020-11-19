@@ -7,3 +7,4 @@ Sinta-se livre para compartilhar o material, quaisquer comentários ou dúvidas 
 O Curso apresentará conceitos de NumPy, Matplotlib e Keras. Alguns dos resultados são :
 
 !https:/github.com/joaocassianox7x/MINICURSO_PET/blob/main/exercicio.png
+![alt tag](https:/github.com/joaocassianox7x/MINICURSO_PET/blob/main/exercicio.png)
